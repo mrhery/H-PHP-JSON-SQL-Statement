@@ -6,19 +6,19 @@ class HJS_CONFIG{
 	public static $config = array(
 		array(
 				#Request URL to HJS Server
-				"url"			=> "https://workspace.intelhost.com.my/workspace/IntelhostCloud/HJS/",
+				"url"			=> "https://another-website.com/HJS/",
 				
 				#Database Host
 				"host"			=> "127.0.0.1",
 				
 				#Database Name
-				"database"		=> "workspac_cloud",
+				"database"		=> "databaseName",
 				
 				#Database Username
-				"username"		=> "workspac_hery",
+				"username"		=> "databaseUsername",
 				
 				#Database Password
-				"password"		=> "hery@1234567890",
+				"password"		=> "databasePassword",
 				
 				#Ex: Basic b64(username:password) | OAuth B64()
 				"authorization"	=> "",
