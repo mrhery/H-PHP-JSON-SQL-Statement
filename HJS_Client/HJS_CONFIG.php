@@ -12,7 +12,7 @@ class HJS_CONFIG{
 				"host"			=> "127.0.0.1",
 				
 				#Database Name
-				"database"		=> "databaseNamea",
+				"database"		=> "databaseName",
 				
 				#Database Username
 				"username"		=> "databaseUsername",
